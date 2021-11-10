@@ -13,19 +13,14 @@ It can perform prediction of liver disease based on required features mentioned 
 - All Directories
 ![](all_files.jpg)
 
-- Created Model Result
-![](.jpg)
 
-- Web App Working on Local Host
-![](.jpg)
+- Web App Working on AZURE Cloud
+![](deployed_azure.jpg)
 
-![](webapp.jpg)
 
-  
 ## Deployment
 
 Deployed this project to AZURE Cloud
-
 
 
   
@@ -33,13 +28,13 @@ Deployed this project to AZURE Cloud
 
 **Prpgramming Language:** Python
 
-**Libraries:**
+**Libraries:** Tensorflow,Numpy,Scikit-Learn,Pandas
 
 **API:** Flask
 
 **Frontend Frameworks:** HTML,CSS
 
-**Web Server:** GCP
+**Web Server:** AZURE
 
 **IDE:** Pycharm 
 
